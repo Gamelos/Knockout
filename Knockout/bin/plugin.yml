@@ -1,0 +1,8 @@
+name: Knockout
+author: Gamelos
+version: 1.0
+
+main: de.gamelos.knockout.Main
+
+commands:
+  knockout:
